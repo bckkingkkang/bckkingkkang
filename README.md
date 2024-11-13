@@ -7,8 +7,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bckkingkkang&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bckkingkkang&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bckkingkkang&theme=default)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bckkingkkang&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bckkingkkang&theme=default&utcOffset=8)
 
 
-<!--![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&fontSize=15-->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&fontSize=15-->
