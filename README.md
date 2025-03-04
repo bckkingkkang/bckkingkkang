@@ -12,3 +12,5 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&fontSize=15-->
+
+[BLOG](https://blog.naver.com/bc_pokemonmaster) [NOTION](https://www.notion.so/8e299cebe9fa4cb599de217adbfc0298) [INFLEARN](https://www.inflearn.com/users/1337074/dashboard)   
